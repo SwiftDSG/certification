@@ -1,0 +1,24 @@
+{
+  "name": "cert",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port=3000",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "start": "PORT=3000 node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.3",
+    "@types/three": "^0.155.0",
+    "nuxt": "^3.6.5",
+    "sass": "^1.54.0"
+  },
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "smooth-scrollbar": "^8.8.4",
+    "three": "^0.155.0"
+  }
+}
