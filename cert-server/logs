@@ -96,3 +96,8 @@
 "USER_SAVED", {"_id":"659a471f021308dd1896db8f","role":"regular","name":"ABC","username":"abc"} - 07/01/2024 06:39
 "LOAN_SAVED", {"_id":"659a4728021308dd1896db90","user":{"_id":"659a471f021308dd1896db8f","name":"ABC"},"book":{"_id":"659a46d2021308dd1896db8b","name":"KK Kemla"},"borrow_date":1704609576188,"return_date":null,"status":"unreturned"} - 07/01/2024 06:39
 "LOAN_SAVED", {"_id":"659a472a021308dd1896db91","user":{"_id":"659a471f021308dd1896db8f","name":"ABC"},"book":{"_id":"659a2c3b8e3b8d9d20e11be6","name":"CV Kemla"},"borrow_date":1704609578035,"return_date":null,"status":"unreturned"} - 07/01/2024 06:39
+"USER_NOT_FOUND" - 10/01/2024 03:13
+"USER_SAVED", {"_id":"659e0b70225e0540bb1f5475","role":"regular","name":"Kemal","username":"kedy"} - 10/01/2024 03:13
+"LOAN_UPDATED", {"_id":"659a4728021308dd1896db90","user":{"_id":"659a471f021308dd1896db8f","name":"ABC"},"book":{"_id":"659a46d2021308dd1896db8b","name":"KK Kemla"},"borrow_date":1704609576188,"return_date":1704856489931,"status":"returned"} - 10/01/2024 03:14
+"LOAN_UPDATED", {"_id":"659a472a021308dd1896db91","user":{"_id":"659a471f021308dd1896db8f","name":"ABC"},"book":{"_id":"659a2c3b8e3b8d9d20e11be6","name":"CV Kemla"},"borrow_date":1704609578035,"return_date":1704856491999,"status":"returned"} - 10/01/2024 03:14
+"LOAN_SAVED", {"_id":"659e0bb7225e0540bb1f5476","user":{"_id":"659a20c4998fcb401c172893","name":"tekos.abady"},"book":{"_id":"659a2c3b8e3b8d9d20e11be6","name":"CV Kemla"},"borrow_date":1704856503503,"return_date":null,"status":"unreturned"} - 10/01/2024 03:15
